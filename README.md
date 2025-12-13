@@ -37,6 +37,6 @@ cargo run
 * **Role-based access control** in the CLI interface
 * **Action logs** that maintain an evidence ledger
 
-in the context of Bangladesh, blockchain technology can significantly improve the management of legal evidence by creating an immutable and tamper-evident record of every action. Each block stores a cryptographic hash of the previous block, making any alteration of prior evidence immediately detectable. By recording timestamps and role-based actions for investigators, police, forensic labs, and courts, the system ensures a verifiable chain of custody. Compared to traditional centralized methods, blockchain reduces the risk of manipulation, provides transparency, and offers a secure, auditable ledger that can strengthen the reliability of evidence in the Bangladeshi legal system.
+In the context of Bangladesh, blockchain technology can significantly improve the management of legal evidence by creating an immutable and tamper-evident record of every action. Each block stores a cryptographic hash of the previous block, making any alteration of prior evidence immediately detectable. By recording timestamps and role-based actions for investigators, police, forensic labs, and courts, the system ensures a verifiable chain of custody. Compared to traditional centralized methods, blockchain reduces the risk of manipulation, provides transparency, and offers a secure, auditable ledger that can strengthen the reliability of evidence in the Bangladeshi legal system.
 
 
