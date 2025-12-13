@@ -1,31 +1,40 @@
-# Forensic-Custody
-Rust-based CLI Forensic Custody System for Bangladesh: register, transfer, and verify evidence with timestamps and mock blockchain ensuring data integrity and role-based access for investigators and custodians
+
+
+````
+# Forensic Custody System
+
+**Rust-based CLI Forensic Custody System for Bangladesh:**  
+Register, transfer, and verify evidence with timestamps and a mock blockchain, ensuring data integrity and role-based access for investigators and custodians.
+
+---
 
 ## Installation
 
-1. Clone the repository:
+1. **Clone the repository:**
 ```bash
-git clone https://github.com/Asif-Justicia/Forensic-Custody.git```
+git clone https://github.com/Asif-Justicia/Forensic-Custody.git
+````
 
-Build the project:
+2. **Build the project:**
 
 ```bash
 cd Forensic-Custody
-cargo build```
+cargo build
+```
+
+3. **Run the CLI:**
 
 ```bash
-Run the CLI:
+cargo run
+```
 
-cargo run```
+---
 
-Features:
+## Features
 
-Register evidence with unique IDs and timestamps
+* **Register evidence** with unique IDs and timestamps
+* **Transfer custody** between roles (Custodian, Investigator, etc.)
+* **Verify evidence chain integrity** using a mock blockchain
+* **Role-based access control** in the CLI interface
+* **Action logs** that maintain an evidence ledger
 
-Transfer custody between roles (Custodian, Investigator, etc.)
-
-Verify evidence chain integrity using a mock blockchain
-
-CLI interface with role-based access control
-
-Logs all actions and maintains an evidence ledger
