@@ -10,8 +10,7 @@ Register, transfer, and verify evidence with timestamps and a mock blockchain, e
 
 ## Installation
 
-1. **Clone the repository:**
-```bash
+1. **Clone the repository:
 git clone https://github.com/Asif-Justicia/Forensic-Custody.git
 ````
 
