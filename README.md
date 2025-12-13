@@ -5,17 +5,18 @@ Rust-based CLI Forensic Custody System for Bangladesh: register, transfer, and v
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Asif-Justicia/Forensic-Custody.git
+git clone https://github.com/Asif-Justicia/Forensic-Custody.git```
 
 Build the project:
 
+```bash
 cd Forensic-Custody
-cargo build
+cargo build```
 
-
+```bash
 Run the CLI:
 
-cargo run
+cargo run```
 
 Features:
 
